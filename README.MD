@@ -1,4 +1,4 @@
-# Desafio 1: Simulador de Investimentos
+### Desafio 1: Simulador de Investimentos
 
 Desafio: Desenvolver um simulador de investimentos que permita aos usuários testar diferentes estratégias de investimento em um ambiente seguro e controlado. O simulador deverá oferecer a possibilidade de simular investimentos em uma variedade de ativos, como ações, títulos, fundos de investimento, criptomoedas, entre outros. Os usuários poderão acompanhar o desempenho de seus investimentos simulados ao longo do tempo, comparando resultados e ajustando suas estratégias conforme necessário.
 
@@ -6,6 +6,6 @@ Justificativa: Investir pode ser uma atividade arriscada, especialmente para ini
 
 Origem e Motivação: A ideia para o simulador de investimentos surge da necessidade crescente de educação financeira e do desejo de muitos indivíduos de se tornarem mais autossuficientes em suas decisões de investimento. Com a popularização de plataformas de investimento online e o crescente interesse por investimentos alternativos, como criptomoedas, há uma demanda por ferramentas que ajudem as pessoas a aprender e experimentar sem o risco de perdas financeiras. Este simulador visa capacitar os usuários a tomar decisões mais informadas e estratégicas quando começarem a investir de verdade.
 
-# Desafio 2:
+### Desafio 2:
 
 
